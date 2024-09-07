@@ -15,7 +15,7 @@ class Event(BaseModel):
             "examples": [
                 {
                     "title": "FastAPI Book Launch",
-                    "image": "https:// linktomyimage.com / image.png",
+                    "image": "https://linktomyimage.com/image.png",
                     "description":
                         "We will be discussing the contents of the FastAPI book in this event."
                         "Ensure to come with your own copy to win gifts!",
